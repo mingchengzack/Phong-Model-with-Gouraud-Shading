@@ -1,4 +1,4 @@
-# Phong lighting mode
+# Phong Lighting Model
 Gouraud shading for rasterizing shaded triangles,half-toning for simulating different brightness on a binary display device, and the painter’s algorithm for solving the hidden surface 
 To compile my project, just type make, and it will output a executable called project3.
 
