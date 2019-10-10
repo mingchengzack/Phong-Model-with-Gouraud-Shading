@@ -1,7 +1,3 @@
-﻿Name: Ming Cheng, ID: 913137594, Email: mgcheng@ucdavis.edu
-
-
-
 To compile my project, just type make, and it will output a executable called project3.
 
 To run my project, just type in ./project3. My program has a input file called test.txt.
@@ -56,10 +52,5 @@ For Painter's Algorithm:
 	Orthographic projection:
 		main.cpp: line 434 - 489
 
-I believe I have implemented everything required for this project. I implemented a class
-called slider to do the slidering parameters for the interface.
-
-ATEENTION:
-For my program, try to set the light position as (1, 1, 1) and view position as 
-(0, 0, 0), this will produce a better shading overall.
+I implemented a class called slider to do the slidering parameters for the interface.
 
