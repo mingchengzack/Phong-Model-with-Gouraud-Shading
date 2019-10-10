@@ -1,3 +1,5 @@
+# Phong lighting mode
+Gouraud shading for rasterizing shaded triangles,half-toning for simulating different brightness on a binary display device, and the painter’s algorithm for solving the hidden surface 
 To compile my project, just type make, and it will output a executable called project3.
 
 To run my project, just type in ./project3. My program has a input file called test.txt.
